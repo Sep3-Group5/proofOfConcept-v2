@@ -7,7 +7,14 @@
         <option value="$PROJECT_DIR$/businessLogic/pom.xml" />
         <option value="$PROJECT_DIR$/persistanceLogic/pom.xml" />
         <option value="$PROJECT_DIR$/presentationLogic/pom.xml" />
+        <option value="$PROJECT_DIR$/businessLogic-v2/pom.xml" />
+        <option value="$PROJECT_DIR$/businessLogic2/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/businessLogic/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="liberica-17" project-jdk-type="JavaSDK">
