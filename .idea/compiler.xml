@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="presentationLogic" />
         <module name="serverLogic" />
+        <module name="business" />
         <module name="persistanceLogic" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="business" options="-parameters" />
       <module name="businessLogic" options="-parameters" />
       <module name="businessLogic-v2" options="-parameters" />
       <module name="serverLogic" options="-parameters" />
