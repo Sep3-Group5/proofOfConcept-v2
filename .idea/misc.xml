@@ -9,10 +9,12 @@
         <option value="$PROJECT_DIR$/presentationLogic/pom.xml" />
         <option value="$PROJECT_DIR$/businessLogic-v2/pom.xml" />
         <option value="$PROJECT_DIR$/businessLogic2/pom.xml" />
+        <option value="$PROJECT_DIR$/logic/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/businessLogic-v2/pom.xml" />
         <option value="$PROJECT_DIR$/businessLogic/pom.xml" />
       </set>
     </option>
